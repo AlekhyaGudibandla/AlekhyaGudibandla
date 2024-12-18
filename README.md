@@ -57,7 +57,6 @@ Hi! I'm Alekhya, an **AI/ML enthusiast** with a flair for solving real-world pro
 
 ---
 
-<img src="https://www.plego.com/wp-content/uploads/2023/10/blog-c-02.png" alt="bug in code">
 > **"I believe AI will rule the world, but first, I need to teach it not to crash. "**
 
 
