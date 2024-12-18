@@ -53,7 +53,6 @@ Hi! I'm Alekhya, an **AI/ML enthusiast** with a flair for solving real-world pro
 
 ---
 
-### ✨ Fun Fact
 > **"I believe AI will rule the world, but first, I need to teach it not to crash. "**
 
 <div align="center">
@@ -65,13 +64,13 @@ Hi! I'm Alekhya, an **AI/ML enthusiast** with a flair for solving real-world pro
 ### 🗨️ Let’s Connect  
 <div align="center">
   <a href="https://github.com/AlekhyaGudibandla">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://linkedin.com/in/AlekhyaGudibandla">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <a href="https://linkedin.com/in/alekhya-gudibandla-3571b5256">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://x.com/AlekhyaGud">
-    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" alt="X">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x" alt="X">
   </a>
 </div>
 
