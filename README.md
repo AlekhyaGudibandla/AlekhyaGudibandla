@@ -1,9 +1,14 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=3DBEFF&center=true&width=500&lines=Hey+there!+I'm+Alekhya+%F0%9F%91%8B;Welcome+to+my+GitHub+universe+%F0%9F%8C%8C;Turning+AI+dreams+into+code+%E2%9C%A8" alt="Typing SVG">
+</div>div>
+
+---
+<div>
+  [!coding desk setup](https://github.com/AlekhyaGudibandla/AlekhyaGudibandla/blob/main/desk.png?raw=true)
   <img src="https://komarev.com/ghpvc/?username=AlekhyaGudibandla&style=for-the-badge&color=brightgreen" alt="Profile Views">
 </div>
 
----
+
 
 ### 🧠 About Me  
 > _"AI enthusiast by passion, problem solver by choice, and lifelong learner at heart."_  
