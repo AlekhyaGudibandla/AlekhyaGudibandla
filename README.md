@@ -4,7 +4,7 @@
 
 ---
 <div>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.pinterest.com%2Fpin%2Fbeautiful-setup--88735055146862945%2F&psig=AOvVaw1b7K4JmisWIo7KaCWs91t3&ust=1734607764362000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCg_9SbsYoDFQAAAAAdAAAAABAJ" alt="desk setup">
+  <img src="https://i.pinimg.com/736x/b8/68/43/b868439ff7f77d28e138b6850f84cacb.jpg" alt="desk setup">
   <img src="https://komarev.com/ghpvc/?username=AlekhyaGudibandla&style=for-the-badge&color=brightgreen" alt="Profile Views">
 </div>
 
