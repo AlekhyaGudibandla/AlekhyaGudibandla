@@ -7,26 +7,28 @@
 ### 🧠 About Me  
 > _"AI enthusiast by passion, problem solver by choice, and lifelong learner at heart."_  
 
-Hi! I’m Alekhya, a **tech explorer** diving into the depths of **AI/ML** and the exciting realm of **web development**. Whether it’s training neural networks or crafting sleek websites, I thrive on building solutions that matter.  
+Hi! I'm Alekhya, an **AI/ML enthusiast** with a flair for solving real-world problems through tech. I thrive on turning complex ideas into simple, impactful solutions. When I'm not exploring neural networks, I’m crafting interactive web applications. I believe in the magic of learning by doing and embracing the occasional (okay, frequent) debugging adventures along the way.
 
+> _"Tech isn't just a skill; it's my creative playground."_
 ---
 
-### 🔧 Tech Stack  
+### 🔧 Tech Stack
 
-#### **Core Focus: AI/ML**  
-- **Languages**:  
-  ![Python](https://img.shields.io/badge/Python-3DBEFF?style=for-the-badge&logo=python&logoColor=white)  
-- **Libraries/Frameworks**:  
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+#### **Core Focus: AI/ML**
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+</div>
 
-#### **Other Tools**  
-- **Web Development (MERN Stack)**:  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-  ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+#### **Web Development (MERN Stack)**
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+</div>
 
 ---
 
@@ -40,10 +42,19 @@ Hi! I’m Alekhya, a **tech explorer** diving into the depths of **AI/ML** and t
 
 ---
 
-### ✨ Fun Stats  
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=brightgreen" alt="Profile Views">
+</div>
+
+---
+
+### ✨ Fun Fact
+> **"AI is great at solving problems… once I convince it not to create more."**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlekhyaGudibandla&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://user-images.githubusercontent.com/75092029/147884660-8b0bc6e3-682f-4f63-a0e8-35f50f6d0bcf.gif" alt="Coding GIF" width="400">
 </div>
 
 ---
