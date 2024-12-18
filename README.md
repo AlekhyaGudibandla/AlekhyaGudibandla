@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=3DBEFF&center=true&width=500&lines=Hey+there!+I'm+Alekhya+%F0%9F%91%8B;Welcome+to+my+GitHub+universe+%F0%9F%8C%8C;Turning+AI+dreams+into+code+%E2%9C%A8" alt="Typing SVG">
-</div>div>
+</div>
 
 ---
-![codingdesksetup](https://github.com/AlekhyaGudibandla/AlekhyaGudibandla/blob/main/desk.png?raw=true)
 <div>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.pinterest.com%2Fpin%2Fbeautiful-setup--88735055146862945%2F&psig=AOvVaw1b7K4JmisWIo7KaCWs91t3&ust=1734607764362000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCg_9SbsYoDFQAAAAAdAAAAABAJ" alt="desk setup">
   <img src="https://komarev.com/ghpvc/?username=AlekhyaGudibandla&style=for-the-badge&color=brightgreen" alt="Profile Views">
 </div>
 
