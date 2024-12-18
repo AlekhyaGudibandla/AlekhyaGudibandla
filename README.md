@@ -44,14 +44,15 @@ Hi! I'm Alekhya, an **AI/ML enthusiast** with a flair for solving real-world pro
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=brightgreen" alt="Profile Views">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekhyaGudibandla&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://komarev.com/ghpvc/?username=AlekhyaGudibandla&style=for-the-badge&color=brightgreen" alt="Profile Views">
+  <img src="(https://github-readme-stats.vercel.app/api?username=AlekhyaGudibandla&show_icons=true&theme=radical)">
 </div>
 
 ---
 
 ### ✨ Fun Fact
-> **"AI is great at solving problems… once I convince it not to create more."**
+> **"I believe AI will rule the world, but first, I need to teach it not to crash. "**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/75092029/147884660-8b0bc6e3-682f-4f63-a0e8-35f50f6d0bcf.gif" alt="Coding GIF" width="400">
