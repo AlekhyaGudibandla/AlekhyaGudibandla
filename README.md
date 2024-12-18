@@ -4,7 +4,7 @@
 
 ---
 <div>
-  [!coding desk setup](https://github.com/AlekhyaGudibandla/AlekhyaGudibandla/blob/main/desk.png?raw=true)
+  ![coding desk setup](https://github.com/AlekhyaGudibandla/AlekhyaGudibandla/blob/main/desk.png?raw=true)
   <img src="https://komarev.com/ghpvc/?username=AlekhyaGudibandla&style=for-the-badge&color=brightgreen" alt="Profile Views">
 </div>
 
