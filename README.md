@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=3DBEFF&center=true&width=500&lines=Hey+there!+I'm+Alekhya+👋;Welcome+to+my+GitHub+universe+🌌;Turning+AI+dreams+into+code+✨" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=3DBEFF&center=true&width=500&lines=Hey+there!+I'm+Alekhya+%F0%9F%91%8B;Welcome+to+my+GitHub+universe+%F0%9F%8C%8C;Turning+AI+dreams+into+code+%E2%9C%A8" alt="Typing SVG">
+  <img src="https://komarev.com/ghpvc/?username=AlekhyaGudibandla&style=for-the-badge&color=brightgreen" alt="Profile Views">
 </div>
 
 ---
@@ -9,7 +10,8 @@
 
 Hi! I'm Alekhya, an **AI/ML enthusiast** with a flair for solving real-world problems through tech. I thrive on turning complex ideas into simple, impactful solutions. When I'm not exploring neural networks, I’m crafting interactive web applications. I believe in the magic of learning by doing and embracing the occasional (okay, frequent) debugging adventures along the way.
 
-> _"Tech isn't just a skill; it's my creative playground."_
+> _"Tech isn't just a skill; it's my creative playground."_  
+
 ---
 
 ### 🔧 Tech Stack
@@ -44,9 +46,9 @@ Hi! I'm Alekhya, an **AI/ML enthusiast** with a flair for solving real-world pro
 
 ### 📊 GitHub Stats
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlekhyaGudibandla&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlekhyaGudibandla&theme=radical" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekhyaGudibandla&layout=compact&theme=radical" alt="Top Languages">
-  <img src="https://komarev.com/ghpvc/?username=AlekhyaGudibandla&style=for-the-badge&color=brightgreen" alt="Profile Views">
-  <img src="(https://github-readme-stats.vercel.app/api?username=AlekhyaGudibandla&show_icons=true&theme=radical)">
 </div>
 
 ---
@@ -61,10 +63,17 @@ Hi! I'm Alekhya, an **AI/ML enthusiast** with a flair for solving real-world pro
 ---
 
 ### 🗨️ Let’s Connect  
-
-- **GitHub**: [github.com/AlekhyaGudibandla](https://github.com/AlekhyaGudibandla)  
-- **LinkedIn**: [linkedin.com/in/Alekhya Gudibandla](https://linkedin.com/in/alekhya-gudibandla-3571b5256)
-- **X**: [x.com/AlekhyaGud](https://x.com/AlekhyaGud)
+<div align="center">
+  <a href="https://github.com/AlekhyaGudibandla">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/AlekhyaGudibandla">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/AlekhyaGud">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" alt="X">
+  </a>
+</div>
 
 ---
 
