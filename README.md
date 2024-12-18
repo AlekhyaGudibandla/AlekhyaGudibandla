@@ -4,7 +4,6 @@
 
 ---
 <div>
-  <img src="https://i.pinimg.com/736x/b8/68/43/b868439ff7f77d28e138b6850f84cacb.jpg" alt="desk setup">
   <img src="https://komarev.com/ghpvc/?username=AlekhyaGudibandla&style=for-the-badge&color=brightgreen" alt="Profile Views">
 </div>
 
@@ -60,9 +59,6 @@ Hi! I'm Alekhya, an **AI/ML enthusiast** with a flair for solving real-world pro
 
 > **"I believe AI will rule the world, but first, I need to teach it not to crash. "**
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/75092029/147884660-8b0bc6e3-682f-4f63-a0e8-35f50f6d0bcf.gif" alt="Coding GIF" width="400">
-</div>
 
 ---
 
