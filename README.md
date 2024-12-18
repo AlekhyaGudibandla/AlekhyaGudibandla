@@ -65,20 +65,16 @@ Hi! I'm Alekhya, an **AI/ML enthusiast** with a flair for solving real-world pro
 ### 🗨️ Let’s Connect  
 <div align="center">
   <a href="https://github.com/AlekhyaGudibandla">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   
   <a href="https://linkedin.com/in/alekhya-gudibandla-3571b5256">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   
   <a href="https://x.com/AlekhyaGud">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x" alt="X">
+    <img src="https://img.shields.io/badge-black?style=for-the-badge&logo=x" alt="X">
   </a>
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/75092029/147884660-8b0bc6e3-682f-4f63-a0e8-35f50f6d0bcf.gif" alt="Code GIF" width="400">
-</div>
