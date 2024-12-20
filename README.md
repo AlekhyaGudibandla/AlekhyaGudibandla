@@ -42,7 +42,7 @@ Hi! I'm Alekhya, an **AI/ML enthusiast** with a flair for solving real-world pro
 
 | Project | Description |  
 |---------|-------------|  
-| [![Breast Cancer Prediction](https://img.shields.io/badge/Breast%20Cancer%20Prediction-AI%20%7C%20ML-brightgreen)](https://github.com/AlekhyaGudibandla/Breast-Cancer-Prediction) | An AI model for predicting breast cancer, designed with PyTorch. |  
+| [![Breast Cancer Prediction](https://img.shields.io/badge/Breast%20Cancer%20Prediction-AI%20%7C%20ML-brightgreen)](https://github.com/AlekhyaGudibandla/Breast-Cancer-Prediction-model) | An AI model for predicting breast cancer, designed with PyTorch. |  
 | [![Autonomous Car](https://img.shields.io/badge/Autonomous%20Car-AI%20%7C%20ML-brightgreen)](https://github.com/AlekhyaGudibandla/Autonomous-Car) | Self Driving Car model using Behavioural Cloning |  
 | [![Custom email sender](https://img.shields.io/badge/Custom%20Email%20Sender-Web%20Development-blue)](https://github.com/AlekhyaGudibandla/custom_email_sender) | A sleek, simple website that sends automatic custom emails |  
 
