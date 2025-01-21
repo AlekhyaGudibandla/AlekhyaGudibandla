@@ -51,7 +51,6 @@ Hi! I'm Alekhya, an **AI/ML enthusiast** with a flair for solving real-world pro
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlekhyaGudibandla&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlekhyaGudibandla&theme=radical" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekhyaGudibandla&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
