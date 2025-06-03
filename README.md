@@ -1,81 +1,115 @@
+<!-- Alekhya's Refined README.md -->
+
+<!-- 🎨 Abstract banner with AI and Web dev energy -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlekhyaGudibandla/AlekhyaGudibandla/main/assets/banner.gif" alt="Welcome Banner" width="100%">
+</p>
+
+<!-- Waving hand animation intro -->
+<h1 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="35px" style="margin-bottom: -5px;" />
+  Hey, I'm Alekhya!
+</h1>
+
+<p align="center"><em>Figuring things out with code. Mostly web and AI — sometimes both at once.</em></p>
+
+---
+
+<table>
+<tr>
+<td width="60%">
+
+### 👩‍💻 A little about me
+
+I'm currently studying **Mathematics and Computing** at RGIPT.  
+Most of my time goes into building things that either make people’s lives easier or help me learn something new in the process.
+
+Sometimes it’s an AI model predicting health conditions.  
+Sometimes it’s a web app automating emails or dashboards.  
+Sometimes it’s just me googling “how to fix unexpected token <”.
+
+I enjoy working with:
+- **AI/ML** (PyTorch, TensorFlow, Scikit-learn)
+- **Data** (Python, R, Tableau, Seaborn — you name it)
+- **Full-stack development** (React.js, Node.js, MongoDB)
+
+If something sits at the intersection of logic, design, and a bit of chaos — I’ll probably like it.
+
+</td>
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="250px" alt="Coding girl gif">
+</td>
+</tr>
+</table>
+
+---
+
+### 🧠 Projects I’ve built (and actually finished)
+
+| Project | What it does | Tech |
+|--------|--------------|------|
+| [Autonomous Car](https://github.com/AlekhyaGudibandla/Autonomous-Car) | A CNN-based model for steering predictions (yes, it drives itself — kind of). | PyTorch, OpenCV |
+| [Breast Cancer Predictor](https://github.com/AlekhyaGudibandla/Breast-cancer-prediction-model) | ML model with 97% accuracy. Clean data, clean predictions. | PyTorch, Scikit-learn |
+| [Diabetes Predictor](https://github.com/AlekhyaGudibandla/Diabetes-prediction-model) | Fast, optimized model to support health diagnosis. | Scikit-learn, SVM |
+| [Email Sender App](https://github.com/AlekhyaGudibandla/custom_email_sender) | A web app that actually sends custom emails. No spam, just good code. | Node.js, React, SendGrid |
+| [Dashboard](https://github.com/AlekhyaGudibandla/Dashboard) | Finance dashboard with real-time updates and nice charts. | React.js, Vite, CSS |
+
+---
+
+### 🛠️ Tech I’m comfortable with
+
+#### 💻 AI / ML  
+Python · PyTorch · TensorFlow · Scikit-learn · OpenCV · NLP · Deep Learning
+
+#### 🌐 Web Dev  
+React · Node.js · Express.js · MongoDB · REST APIs · HTML · CSS · JavaScript
+
+#### 📊 Data & Visualization  
+Pandas · NumPy · Seaborn · Matplotlib · R · Tableau · Power BI
+
+#### ☁️ Tools  
+Git · GitHub · Google Colab · Jupyter · Docker · AWS (basic)
+
+---
+
+### 📈 GitHub Stats (for the curious)
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=3DBEFF&center=true&width=500&lines=Hey+there!+I'm+Alekhya+%F0%9F%91%8B;Welcome+to+my+GitHub+universe+%F0%9F%8C%8C;Turning+AI+dreams+into+code+%E2%9C%A8" alt="Typing SVG">
-</div>
-
----
-<div>
-  <img src="https://komarev.com/ghpvc/?username=AlekhyaGudibandla&style=for-the-badge&color=brightgreen" alt="Profile Views">
-</div>
-
-
-
-### 🧠 About Me  
-> _"AI enthusiast by passion, problem solver by choice, and lifelong learner at heart."_  
-
-Hi! I'm Alekhya, an **AI/ML enthusiast** with a flair for solving real-world problems through tech. I thrive on turning complex ideas into simple, impactful solutions. When I'm not exploring neural networks, I’m crafting interactive web applications. I believe in the magic of learning by doing and embracing the occasional (okay, frequent) debugging adventures along the way.
-
-> _"Tech isn't just a skill; it's my creative playground."_  
-
----
-
-### 🔧 Tech Stack
-
-#### **Core Focus: AI/ML**
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-</div>
-
-#### **Web Development (MERN Stack)**
-<div>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlekhyaGudibandla&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekhyaGudibandla&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 ---
 
-### 🌟 Featured Projects  
+### 🎨 Things I like (besides code)
 
-| Project | Description |  
-|---------|-------------|  
-| [![Breast Cancer Prediction](https://img.shields.io/badge/Breast%20Cancer%20Prediction-AI%20%7C%20ML-brightgreen)](https://github.com/AlekhyaGudibandla/Breast-Cancer-Prediction-model) | An AI model for predicting breast cancer, designed with PyTorch. |  
-| [![Autonomous Car](https://img.shields.io/badge/Autonomous%20Car-AI%20%7C%20ML-brightgreen)](https://github.com/AlekhyaGudibandla/Autonomous-Car) | Self Driving Car model using Behavioural Cloning |  
-| [![Custom email sender](https://img.shields.io/badge/Custom%20Email%20Sender-Web%20Development-blue)](https://github.com/AlekhyaGudibandla/custom_email_sender) | A sleek, simple website that sends automatic custom emails |  
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlekhyaGudibandla&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekhyaGudibandla&layout=compact&theme=radical" alt="Top Languages">
-</div>
+- Solving real problems with simple tools  
+- Building projects I’d actually use  
+- Aesthetic UI with a clean backend  
+- Learning without pressure  
+- Quiet time to journal or think  
 
 ---
 
-> **"I believe AI will rule the world, but first, I need to teach it not to crash. "**
+### 📬 You can find me here
 
-
----
-
-### 🗨️ Let’s Connect  
-<div align="center">
-<a href="https://github.com/AlekhyaGudibandla">
-  <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-
-<a href="https://linkedin.com/in/alekhya-gudibandla-3571b5256">
-  <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a>
-
-<a href="https://x.com/AlekhyaGud">
-  <img src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x" alt="X">
-</a>
-
-
-</div>
+<p align="center">
+  <a href="https://github.com/AlekhyaGudibandla">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/alekhya-gudibandla-3571b5256">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/AlekhyaGud">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
 
 ---
+
+> _"Some people write code to impress. I write code to understand."_  
+> – probably me, after 3 hours of debugging
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="300" alt="Coding gif">
+</p>
