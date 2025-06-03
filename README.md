@@ -1,11 +1,3 @@
-<!-- Alekhya's Refined README.md -->
-
-<!-- 🎨 Abstract banner with AI and Web dev energy -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlekhyaGudibandla/AlekhyaGudibandla/main/assets/banner.gif" alt="Welcome Banner" width="100%">
-</p>
-
-<!-- Waving hand animation intro -->
 <h1 align="center">
   <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="35px" style="margin-bottom: -5px;" />
   Hey, I'm Alekhya!
@@ -15,36 +7,28 @@
 
 ---
 
-<table>
-<tr>
-<td width="60%">
+<h3>👩‍💻 A little about me</h3>
 
-### 👩‍💻 A little about me
+<img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="220px" align="right" style="margin-left: 10px;" alt="Coding girl gif" />
 
-I'm currently studying **Mathematics and Computing** at RGIPT.  
+I'm currently studying B.Tech im **Mathematics and Computing**.  
 Most of my time goes into building things that either make people’s lives easier or help me learn something new in the process.
 
 Sometimes it’s an AI model predicting health conditions.  
 Sometimes it’s a web app automating emails or dashboards.  
 Sometimes it’s just me googling “how to fix unexpected token <”.
 
-I enjoy working with:
-- **AI/ML** (PyTorch, TensorFlow, Scikit-learn)
-- **Data** (Python, R, Tableau, Seaborn — you name it)
-- **Full-stack development** (React.js, Node.js, MongoDB)
+I enjoy working with:  
+• **AI/ML** (PyTorch, TensorFlow, Scikit-learn)  
+• **Data** (Python, R, Tableau, Seaborn — you name it)  
+• **Full-stack development** (React.js, Node.js, MongoDB)
 
 If something sits at the intersection of logic, design, and a bit of chaos — I’ll probably like it.
 
-</td>
-<td width="40%" align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="250px" alt="Coding girl gif">
-</td>
-</tr>
-</table>
 
 ---
 
-### 🧠 Projects I’ve built (and actually finished)
+### 🧠 Projects I’ve built
 
 | Project | What it does | Tech |
 |--------|--------------|------|
@@ -72,7 +56,7 @@ Git · GitHub · Google Colab · Jupyter · Docker · AWS (basic)
 
 ---
 
-### 📈 GitHub Stats (for the curious)
+### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlekhyaGudibandla&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
