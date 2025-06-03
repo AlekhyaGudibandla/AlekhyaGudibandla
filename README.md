@@ -34,7 +34,6 @@ If something sits at the intersection of logic, design, and a bit of chaos — I
 |--------|--------------|------|
 | [Autonomous Car](https://github.com/AlekhyaGudibandla/Autonomous-Car) | A CNN-based model for steering predictions (yes, it drives itself — kind of). | PyTorch, OpenCV |
 | [Breast Cancer Predictor](https://github.com/AlekhyaGudibandla/Breast-cancer-prediction-model) | ML model with 97% accuracy. Clean data, clean predictions. | PyTorch, Scikit-learn |
-| [Diabetes Predictor](https://github.com/AlekhyaGudibandla/Diabetes-prediction-model) | Fast, optimized model to support health diagnosis. | Scikit-learn, SVM |
 | [Email Sender App](https://github.com/AlekhyaGudibandla/custom_email_sender) | A web app that actually sends custom emails. No spam, just good code. | Node.js, React, SendGrid |
 | [Dashboard](https://github.com/AlekhyaGudibandla/Dashboard) | Finance dashboard with real-time updates and nice charts. | React.js, Vite, CSS |
 
