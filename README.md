@@ -1,5 +1,5 @@
-<h1 align="center">
-  <img src="./my_avatar.gif" width="300px" style="margin-bottom: -5px, background-color:#1e1e2f"; />
+<h1>
+  <img src="./my_avatar.gif" width="300px"/>
   Hey, I'm Alekhya!
 </h1>
 
