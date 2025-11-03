@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="35px" style="margin-bottom: -5px;" />
+  <img src="./my_avatar.gif" width="300px" style="margin-bottom: -5px, background-color:#1e1e2f"; />
   Hey, I'm Alekhya!
 </h1>
 
