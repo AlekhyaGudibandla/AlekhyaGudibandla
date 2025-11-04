@@ -1,5 +1,5 @@
 <h1>
-  <img src="./my_avatar.gif" width="300px"/>
+  <img src="./my_avatar.gif" width="220px"/>
   Hey, I'm Alekhya!
 </h1>
 
@@ -11,7 +11,7 @@
 
 <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="220px" align="right" style="margin-left: 10px;" alt="Coding girl gif" />
 
-I'm currently studying B.Tech im **Mathematics and Computing**.  
+I'm currently studying B.Tech in **Mathematics and Computing**.  
 Most of my time goes into building things that either make people’s lives easier or help me learn something new in the process.
 
 Sometimes it’s an AI model predicting health conditions.  
@@ -26,6 +26,13 @@ I enjoy working with:
 If something sits at the intersection of logic, design, and a bit of chaos — I’ll probably like it.
 
 
+---
+
+### 🌱 I'm currently...
+
+- Building something that connects web tech and AI — because why pick one?
+- Right now, that means a web app that blends AI with everyday productivity.
+- 
 ---
 
 ### 🧠 Projects I’ve built
@@ -64,12 +71,14 @@ Git · GitHub · Google Colab · Jupyter · Docker · AWS (basic)
 
 ---
 
-### 🎨 Things I like (besides code)
+### 🤓 What I Geek Out On
 
 - Solving real problems with simple tools  
 - Building projects I’d actually use  
 - Aesthetic UI with a clean backend  
-- Learning without pressure  
+- Learning without pressure
+- Getting lost in a good book
+- Discovering new music
 - Quiet time to journal or think  
 
 ---
