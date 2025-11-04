@@ -1,9 +1,10 @@
-<h1 align = justify>
-  <img src="./my_avatar.gif" width="300px"/>
-  Hey, I'm Alekhya!
-</h1>
-
-<p align="center"><em>Figuring things out with code. Mostly web and AI — sometimes both at once.</em></p>
+<div align="center">
+  <h1 style="margin-bottom: 0;">
+    <img src="./my_avatar.gif" width="250px" alt="Waving avatar gif" style="vertical-align: middle;"/>
+    Hey, I'm Alekhya!
+  </h1>
+  <p><em>Figuring things out with code. Mostly web and AI — sometimes both at once.</em></p>
+</div>
 
 ---
 
