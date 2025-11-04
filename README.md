@@ -1,5 +1,5 @@
-<h1>
-  <img src="./my_avatar.gif" width="220px"/>
+<h1 align = justify>
+  <img src="./my_avatar.gif" width="300px"/>
   Hey, I'm Alekhya!
 </h1>
 
